@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is SABR MOHAMED
+[![msabr's 42 stats](https://badge.mediaplus.ma/binary/msabr)](https://github.com/oakoudad/badge42)
 ![](https://media.licdn.com/dms/image/v2/D4E16AQEPzGg9neeeaw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726335437828?e=1740614400&v=beta&t=Almwlizjn7zNnepqcLp3ORpO3LupIep72m514xNZrWw)
 
 🎓 First-year student in Management and Governance of Information Systems at the National School of Applied Sciences in Khouribga, and also studying at the programming school 1337, part of the 42 Network
