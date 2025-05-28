@@ -31,9 +31,4 @@
 
 ----
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msabr&theme=dark&border_radius=9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-
-----
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/msabr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sabr-mohamed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohamed_._sabir//)  
