@@ -8,7 +8,7 @@
 </div>
 
 
-#### 🎓 First-year student in Management and Governance of Information Systems at the National School of Applied Sciences in Khouribga, and also studying at the programming school 1337, part of the 42 Network
+#### 🎓 Second-year student in Management and Governance of Information Systems at the National School of Applied Sciences in Khouribga and student at 1337 (42 Network), specializing in systems programming, C/C++, algorithms, and software development.
 
 ---
 
