@@ -29,6 +29,15 @@
 > 🎓 Second-year student in **Management & Governance of Information Systems** @ ENSAK Khouribga  
 > ⚡ Peer-learning student @ **1337** — part of the world-renowned **42 Network**  
 > 🧠 Passionate about understanding how things work *under the hood* — memory, processes, and bytes.
+---
+
+## `$ cat 42stats.md`
+
+<div align="center">
+
+[![msabr's 42 stats](https://badge.mediaplus.ma/binary/msabr)](https://github.com/oakoudad/badge42)
+
+</div>
 
 ---
 
@@ -54,27 +63,6 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## `$ ls -la projects/`
-
-| Project | Description | Stack | Stars |
-|---------|------------|-------|-------|
-| [**CUB3D**](https://github.com/msabr/CUB3D_1337) | 🎮 First-person 3D raycasting engine (Wolfenstein-style) | C, MiniLibX | ⭐⭐ |
-| [**Born2BeRoot**](https://github.com/msabr/BORN2BEROOT_1337) | 🛡️ Linux server hardening & virtualization | Debian, Bash | ⭐ |
-| [**NetPractice**](https://github.com/msabr/NET-PRACTICE-1337) | 🌐 TCP/IP networking configuration challenges | Networking | ⭐ |
-| [**Libft**](https://github.com/msabr/LIBFT-1337) | 📚 Custom C standard library from scratch | C | 🔧 |
-| [**ft_printf**](https://github.com/msabr/FT_PTINTF_1337) | 🖨️ Custom printf reimplementation with variadic functions | C | 🔧 |
-
----
-
-## `$ cat 42stats.md`
-
-<div align="center">
-
-[![msabr's 42 stats](https://badge.mediaplus.ma/binary/msabr)](https://github.com/oakoudad/badge42)
-
-</div>
 
 ---
 
@@ -82,9 +70,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msabr&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msabr&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msabr&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=ffffff)
 
@@ -99,21 +85,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-msabr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sabr--mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabr-mohamed/)
 [![X / Twitter](https://img.shields.io/badge/X-@MOHAMEDSABR73-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MOHAMEDSABR73)
-[![Instagram](https://img.shields.io/badge/Instagram-mohamed_._sabir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohamed_._sabir/)
 
 </div>
 
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."   ║
-║                              — John Johnson           ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=msabr&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)
-
-</div>
